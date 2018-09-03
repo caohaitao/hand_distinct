@@ -1,0 +1,5 @@
+/crun/test/test/.vs
+/crun/test/test/*.sdf
+/crun/test/test/test/x64
+*.jpg
+/crun/test/test/x64
